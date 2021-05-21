@@ -1,9 +1,7 @@
 # 智能水下恒压储释能系统
 2020节能减排大赛-全国一等奖
 
-![详见github链接](https://github.com/xbchub/Constant-pressure-system)
-
-![我的个人主页](https://xbchub.github.io/)
+[我的个人主页](https://xbchub.github.io/)
 
 ## 相关图片
 
